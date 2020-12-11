@@ -1,0 +1,7 @@
+name: "Com-mod"
+displayName: "Com-mod"
+author: "[yellow]Yeonpil"
+description: "It makes the game more comfortable."
+version: "1.0"
+minGameVersion: "121"
+hidden: false
